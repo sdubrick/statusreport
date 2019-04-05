@@ -3,8 +3,8 @@
   "name": "-",
   "link": "http://1to1service.com",
   "repo": "-",
-  "owner": "-",
-  "statusRepo": "-",
+  "owner": "sdubrick",
+  "statusRepo": "sdubrick/statusreport",
   "services": ["Webapp", "Email"],
   "statuses": {
     "operational": "#2ecc71",
